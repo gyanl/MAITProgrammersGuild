@@ -1,6 +1,6 @@
 (function(){
-    var randomVariable = "yay";
-    console.log(randomVariable);
+  var randomVariable = "yay";
+  console.log(randomVariable);
 })();
 
 
