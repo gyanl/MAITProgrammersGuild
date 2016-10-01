@@ -598,6 +598,11 @@ body {
     transform: translateX(0px); }
   .cardcont {
     color: #fff;
-    padding-bottom: 20px; }
+    padding-bottom: 100px;
+    }
   .name {
-    text-decoration: underline; } }
+    text-decoration: underline; }
+    .card{
+      margin-top: 60px;
+    }
+  }
