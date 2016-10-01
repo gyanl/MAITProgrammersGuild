@@ -236,14 +236,14 @@ body {
   transition-property: top; }
 
 .header-fixed p {
-  color: #2E5DF8;
+  color: #CB1A3F;
   font-family: Dosis,Helvetica,Roboto,sans-serif;
   width: 830px;
   font-weight: 700;
   margin: auto; }
 
 .header-fixed a {
-  color: #2E5DF8;
+  color: #CB1A3F;
   text-shadow: 0 0 0 #fff, .05em .05em 0 #fff, 0 0, -.05em .05em 0 #fff;
   /*  gradient background allows us to use css only & re-position it  */
   background: -webkit-linear-gradient(#333, #000) center 1.1em no-repeat;
@@ -300,9 +300,9 @@ body {
 
 .card img:hover,
 .card img:active {
-  -webkit-box-shadow: 0px 0px 0px 6px #2e5df8;
-  -moz-box-shadow: 0px 0px 0px 6px #2e5df8;
-  box-shadow: 0px 0px 0px 6px #2e5df8;
+  -webkit-box-shadow: 0px 0px 0px 6px #CB1A3F;
+  -moz-box-shadow: 0px 0px 0px 6px #CB1A3F;
+  box-shadow: 0px 0px 0px 6px #CB1A3F;
   -webkit-transform: scale(1.05);
   transform: scale(1.05); }
 
@@ -463,8 +463,8 @@ body {
 
 .hvr-grow-shadow:hover,
 .hvr-grow-shadow:active {
-  color: #2E5DF8;
-  box-shadow: 0px 3px 34px -4px #2E5DF8;
+  color: #CB1A3F;
+  box-shadow: 0px 3px 34px -4px #CB1A3F;
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
   outline: none; }
@@ -566,11 +566,11 @@ body {
     position: relative; }
   .header-fixed p {
     width: auto;
-    color: #333;
+    color: #CB1A3F;
     padding-left: 8px; }
   .header-fixed a {
     background-size: 100% 2px;
-    color: #333; }
+    color: #CB1A3F; }
   .UItext {
     margin-top: -100px;
     margin: 0px; }
