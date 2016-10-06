@@ -307,7 +307,7 @@ body {
   transform: scale(1.05); }
 
 .card img {
-  margin-top: 20px;
+  margin: 1em 0 0.4em;
   width: 200px;
   height: 200px;
   padding-top: 0px;
