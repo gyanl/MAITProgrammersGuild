@@ -28,5 +28,5 @@ Use a framework to build a responsive website that explains what the club is, an
 
 * [Grant Hyun Park](https://github.com/sungjp)
 * [Gyan Lakhwani](https://github.com/gyanl)
-* [Mayank Kaul](https://github.com/mayankgulati)
+* [Mayank Gulati](https://github.com/mayankgulati)
 
